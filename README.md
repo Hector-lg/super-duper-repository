@@ -18,7 +18,7 @@ Learninf to use git and markdown
 - **cd**: change to another directory
 - **pdw**: print the working, directory. Show where I am at the moment
 
-## 
+## Git commands
 - **git clone**: download a repository to the local machine 
 - **git status**: check the current situation of the local repository
 - **git add**:add files to the staging area before commiting
