@@ -15,5 +15,5 @@ Learninf to use git and markdown
 ## Unix commands
 
 - **ls**: list the contens of a directory
-- **cd**: change to anothes directory
-- **pwd*: print the working, directory. Show where I am at the moment
+- **cd**: change to another directory
+- **pdw**: print the working, directory. Show where I am at the moment
